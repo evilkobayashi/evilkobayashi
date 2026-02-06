@@ -2,7 +2,7 @@
 - 👀 I’m interested in IA's, Robotics and Cyber Security
 - 🌱 I’m currently learning C, C#, C++, Python
 - 💞️ I’m looking to collaborate on some projects that improve the life of the people
-- 📫 How to reach me on andre21veiga@gmail.com or Discord: evilkobayashi#9800
+- 📫 How to reach me on andreveiga.eng@gmail.com or Discord: evilkobayashi#9800
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
