@@ -47,9 +47,9 @@ I like systems that are well-documented, problems that have root causes, and sol
 
 <div align="center">
 
-[![plantinha](https://github-readme-stats.vercel.app/api/pin/?username=evilkobayashi&repo=plantinha-iot&theme=github_dark&hide_border=true)](https://github.com/evilkobayashi/plantinha-iot)
+[![plantinha](https://github-readme-stats-lhnl.vercel.app/api/pin/?username=evilkobayashi&repo=plantinha-iot&theme=github_dark&hide_border=true)](https://github.com/evilkobayashi/plantinha-iot)
 &nbsp;
-[![nuvem](https://github-readme-stats.vercel.app/api/pin/?username=evilkobayashi&repo=nuvem-do-tempo&theme=github_dark&hide_border=true)](https://github.com/evilkobayashi/nuvem-do-tempo)
+[![nuvem](https://github-readme-stats-lhnl.vercel.app/api/pin/?username=evilkobayashi&repo=nuvem-do-tempo&theme=github_dark&hide_border=true)](https://github.com/evilkobayashi/nuvem-do-tempo)
 
 </div>
 
