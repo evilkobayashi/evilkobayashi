@@ -27,9 +27,9 @@ I like systems that are well-documented, problems that have root causes, and sol
 
 <div align="center">
 
-![stats](https://github-readme-stats.vercel.app/api?username=evilkobayashi&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github)
-&nbsp;
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evilkobayashi&layout=compact&theme=github_dark&hide_border=true)
+![stats](https://github-readme-stats-omega-mauve-80.vercel.app/api?username=evilkobayashi&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github)
+
+![langs](https://github-readme-stats-omega-mauve-80.vercel.app/api/top-langs/?username=evilkobayashi&layout=compact&theme=github_dark&hide_border=true)
 
 [![streak](https://streak-stats.demolab.com?user=evilkobayashi&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 
