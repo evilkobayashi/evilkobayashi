@@ -54,7 +54,7 @@ I like systems that are well-documented, problems that have root causes, and sol
 
 [![iot-sensor-hub](https://github-readme-stats-lhnl.vercel.app/api/pin/?username=evilkobayashi&repo=iot-sensor-hub&theme=github_dark&hide_border=true)](https://github.com/evilkobayashi/iot-sensor-hub)
 &nbsp;
-[![asilo-saas](https://github-readme-stats-lhnl.vercel.app/api/pin/?username=evilkobayashi&repo=asilo-saas&theme=github_dark&hide_border=true)](https://github.com/evilkobayashi/asilo-saas)
+[![asilo-saas](https://github-readme-stats-lhnl.vercel.app/api/pin/?username=evilkobayashi&repo=asilo-saas&theme=github_dark&hide_border=true&cache_seconds=0)](https://github.com/evilkobayashi/asilo-saas)
 
 [![tutorai](https://github-readme-stats-lhnl.vercel.app/api/pin/?username=evilkobayashi&repo=tutorai&theme=github_dark&hide_border=true)](https://github.com/evilkobayashi/tutorai)
 &nbsp;
