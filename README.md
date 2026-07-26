@@ -1,4 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:39d353&height=120&section=header&text=André%20Veiga&fontSize=28&fontColor=39d353&animation=fadeIn)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/evilkobayashi/evilkobayashi/main/github-banner/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/evilkobayashi/evilkobayashi/main/github-banner/light.svg">
+  <img alt="André Veiga — Infrastructure & Cloud Engineer" src="https://raw.githubusercontent.com/evilkobayashi/evilkobayashi/main/github-banner/dark.svg">
+</picture>
 
 [![typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=800&color=39D353&width=500&lines=Computer+Engineer+%7C+Infrastructure;Infra+%2B+IoT+%2B+SaaS+Builder;Technical+Support+%26+IoT+Builder;Teaching+the+next+generation+to+build)](https://git.io/typing-svg)
 
